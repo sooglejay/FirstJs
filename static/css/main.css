@@ -1,0 +1,20 @@
+.btn-fix {
+  width: 60px;
+  margin: 0 20px 0 0;
+}
+
+.top-offset {
+  margin-top: 20px;
+}
+
+.bottom-offset {
+  margin-bottom: 5px;
+}
+
+.panel {
+  padding-left: 0;
+}
+
+.panel-body {
+  padding: 0;
+}
