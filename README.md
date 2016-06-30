@@ -1,2 +1,2 @@
 # FirstJs
-This is a expressjs project for learning 
+This is an Express.js project for learning 
